@@ -1,0 +1,28 @@
+{
+    "id": "EF807DA4",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1716883984163.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "ad7ea15b02d643f2b45b10d24a2e71af",
+        "name": "se",
+        "title": "se",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1716883984163,
+    "read_only": false,
+    "read_only_alternatives": []
+}
